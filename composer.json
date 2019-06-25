@@ -1,0 +1,10 @@
+{
+    "name": "marek/phpdep_app",
+    "authors": [
+        {
+            "name": "Marek Karmelski",
+            "email": "marek.karmelski@gmail.com"
+        }
+    ],
+    "require": {}
+}
